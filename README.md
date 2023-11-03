@@ -1,0 +1,1 @@
+## This is a Image to text using easyocr library
